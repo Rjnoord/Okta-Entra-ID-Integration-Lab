@@ -105,8 +105,7 @@ During this lab, the following IAM troubleshooting scenarios were analyzed:
 * Authentication Troubleshooting
 
 ## Video Walkthrough
-[
-](https://youtu.be/nhVZe9arLc0)
+[Watch the Full Walkthrough](https://youtu.be/nhVZe9arLc0)
 
 ## Outcome
 
